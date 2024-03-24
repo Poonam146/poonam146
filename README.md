@@ -1,5 +1,7 @@
-### Hi there 👋
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/amanbind898/amanbind898/main/ezgif-3-e2dd7b4583.gif" align="center" style="width: 100%" />
+</div>  
 
 <h1 align="center">Hi 👋, I'm Poonam Mahawar</h1>
 - 🌱 I’m currently learning Frontent Web Development and C/C++ <br>
