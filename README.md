@@ -22,3 +22,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poonam146&" alt="poonam146" /></p>
 
+## Badges:
+[![An image of @poonam146's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/poonam146)](https://holopin.io/@poonam146)
+
