@@ -74,9 +74,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Poonam146&" alt="Poonam146" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Poonam146/Poonam146/output/snake.svg" alt="Snake animation" />
-</p>
+
 
 
 ## Badges:
