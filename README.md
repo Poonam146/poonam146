@@ -4,6 +4,28 @@
 </div>  
 
 <h1 align="center">Hi 👋, I'm Poonam Mahawar</h1>
+<h3 align="center">Full Stack Developer | CSE @ IIIT Bhagalpur </h3>
+
+<p align="center">
+  <a href="mailto:mahawarpoonam2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Poonam146" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/thepoonam0914/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/poonam-mahawar/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/thepoonam0914" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+
+</p>
+
 - 🌱 I’m currently learning Frontend Web Development and AI/ML <br>
 - 👯 I’m looking to collaborate on Frontend Projects and AI/ML Projects <br>
 - 💡 I aim to build interactive web applications and intelligent systems using my skills <br>
