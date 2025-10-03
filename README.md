@@ -7,7 +7,7 @@
 <h3 align="center">Full Stack Developer | CSE @ IIIT Bhagalpur </h3>
 
 <p align="center">
-  <a href="mailto:mahawarpoonam2004@gmail.com">
+  <a href="mailto:poonam.230101087@iiitbh.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Poonam146" target="_blank">
@@ -26,12 +26,16 @@
 
 </p>
 
+### 🚀 About Me
+
 - 🌱 I’m currently learning Frontend Web Development and AI/ML <br>
 - 👯 I’m looking to collaborate on Frontend Projects and AI/ML Projects <br>
 - 💡 I aim to build interactive web applications and intelligent systems using my skills <br>
 - 📫 Feel free to reach out to me for collaborations <br>
+- 📫 Reach me at: `poonam.230101087@iiitbh.ac.in`<br>
+- 😄 Pronouns: She/her <br> 
 
-- 😄 Pronouns: She/her <br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poonam146&label=Profile%20views&color=0e75b6&style=flat" alt="poonam146" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poonam146" alt="poonam146" /></a> </p>
