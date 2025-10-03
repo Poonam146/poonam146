@@ -23,11 +23,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poonam146&" alt="poonam146" /></p>
 
 
-### 🐍 Watch my contribution graph get eaten by a snake!
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Poonam146/Poonam146/output/snake.svg" alt="Snake animation" />
 </p>
+
 
 
 ## Badges:
