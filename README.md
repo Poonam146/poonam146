@@ -4,14 +4,17 @@
 </div>  
 
 <h1 align="center">Hi 👋, I'm Poonam Mahawar</h1>
-- 🌱 I’m currently learning Frontent Web Development and C/C++ <br>
-- 👯 I’m looking to collaborate on Frontend Projects <br>
+- 🌱 I’m currently learning Frontend Web Development and AI/ML <br>
+- 👯 I’m looking to collaborate on Frontend Projects and AI/ML Projects <br>
+- 💡 I aim to build interactive web applications and intelligent systems using my skills <br>
+- 📫 Feel free to reach out to me for collaborations <br>
+
 - 😄 Pronouns: She/her <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poonam146&label=Profile%20views&color=0e75b6&style=flat" alt="poonam146" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poonam146" alt="poonam146" /></a> </p>
 
-[![Poonam146's GitHub | Stats](https://stats.quine.sh/Poonam146/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Poonam146)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -71,6 +74,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Poonam146&" alt="Poonam146" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Poonam146/Poonam146/output/snake.svg" alt="Snake animation" />
+</p>
 
 
 ## Badges:
