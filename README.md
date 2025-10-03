@@ -25,6 +25,8 @@
   </a>
 
 </p>
+---
+
 
 ### 🚀 About Me
 
@@ -34,6 +36,8 @@
 - 📫 Feel free to reach out to me for collaborations <br>
 - 📫 Reach me at: `poonam.230101087@iiitbh.ac.in`<br>
 - 😄 Pronouns: She/her <br> 
+
+---
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poonam146&label=Profile%20views&color=0e75b6&style=flat" alt="poonam146" /> </p>
