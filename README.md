@@ -45,7 +45,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poonam146" alt="poonam146" /></a> </p>
 
-
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -92,6 +92,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="50" height="50"/>
   </a>
 </p>
+
+---
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Poonam146&show_icons=true&locale=en&layout=compact" alt="Poonam146" />
