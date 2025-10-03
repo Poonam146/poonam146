@@ -50,7 +50,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
@@ -95,17 +95,18 @@
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Poonam146&show_icons=true&locale=en&layout=compact" alt="Poonam146" />
+<### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Poonam146&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Poonam146&show_icons=true&locale=en" alt="Poonam146" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poonam146&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Poonam146&" alt="Poonam146" />
-</p>
+---
+
 
 
 
