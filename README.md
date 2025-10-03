@@ -47,7 +47,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
@@ -95,7 +95,7 @@
 
 ---
 
-<### 📊 GitHub Stats
+<h2 align="left">GitHub Stats:</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Poonam146&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
