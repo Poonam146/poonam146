@@ -110,7 +110,7 @@
 
 ## Badges:
 [![An image of @poonam146's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/poonam146)](https://holopin.io/@poonam146)
-[![An image of @poonam146's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/poonam146)](https://holopin.io/@poonam146)
+
 
 
 
