@@ -77,6 +77,19 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Poonam146/Rank2College" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Poonam146&repo=Rank2College&theme=tokyonight" alt="Rank2College" />
+  </a>
+  <a href="https://github.com/Poonam146/Student-Report-Card-Management-System" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Poonam146&repo=Student-Report-Card-Management-System&theme=tokyonight" alt="Student Report Card Management System" />
+  </a>
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
