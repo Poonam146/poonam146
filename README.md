@@ -82,7 +82,7 @@
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | **Rank2College** | JEE Main College Predictor based on user rank, category, and state | Next.js, CSV parsing, Tailwind CSS | [GitHub Repo](https://github.com/Poonam146/Rank2College) |
-| **Student Report Card Management System** | A comprehensive system for managing and generating student report cards | HTML, CSS, JavaScript, Python | [GitHub Repo](https://github.com/Poonam146/Student-Report-Card-Management-System) |
+| **Student Report Card Management System** | A comprehensive system for managing and generating student report cards | C++ | [GitHub Repo](https://github.com/Poonam146/Student-Report-Card-Management-System) |
 
 ---
 
