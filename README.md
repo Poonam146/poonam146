@@ -77,16 +77,12 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🌟 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Poonam146/Rank2College" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Poonam146&repo=Rank2College&theme=tokyonight" alt="Rank2College" />
-  </a>
-  <a href="https://github.com/Poonam146/Student-Report-Card-Management-System" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Poonam146&repo=Student-Report-Card-Management-System&theme=tokyonight" alt="Student Report Card Management System" />
-  </a>
-</div>
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Rank2College** | JEE Main College Predictor based on user rank, category, and state | Next.js, CSV parsing, Tailwind CSS | [GitHub Repo](https://github.com/Poonam146/Rank2College) |
+| **Student Report Card Management System** | A comprehensive system for managing and generating student report cards | HTML, CSS, JavaScript, Python | [GitHub Repo](https://github.com/Poonam146/Student-Report-Card-Management-System) |
 
 ---
 
