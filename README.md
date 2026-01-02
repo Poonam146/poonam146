@@ -72,6 +72,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+#### 🤖 AI / GenAI 
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-5A29E4?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white)
+
 #### ⚙️ Hosting
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
