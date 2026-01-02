@@ -24,6 +24,11 @@
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
 
+  <a href="https://poonam-portfolio-gnml.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+
 </p>
 
 ---
