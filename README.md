@@ -96,9 +96,9 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
+| **Personal Portfolio** | My personal portfolio showcasing projects, skills, certifications, and experience with a responsive modern UI. | Next.js, TypeScript, Tailwind CSS | [Live Demo](https://poonam-mahawar.vercel.app/) • [GitHub Repo](https://github.com/Poonam146/poonam-portfolio) |
 | **Rank2College** | JEE Main College Predictor based on user rank, category, and state | Next.js, CSV parsing, Tailwind CSS | [GitHub Repo](https://github.com/Poonam146/Rank2College) |
 | **Student Report Card Management System** | A comprehensive system for managing and generating student report cards | C++ | [GitHub Repo](https://github.com/Poonam146/Student-Report-Card-Management-System) |
-
 ---
 
 ### 📊 GitHub Stats
