@@ -99,6 +99,8 @@
 | **Personal Portfolio** | My personal portfolio showcasing projects, skills, certifications, and experience with a responsive modern UI. | Next.js, TypeScript, Tailwind CSS | [Live Demo](https://poonam-mahawar.vercel.app/) • [GitHub Repo](https://github.com/Poonam146/poonam-portfolio) |
 | **OppSync** | A full-stack job portal for students and developers featuring an AI-powered resume builder, ATS optimization, smart job board, recruiter dashboard, and Telegram integration. | Next.js, TypeScript, Prisma, PostgreSQL, Tailwind CSS | [Live Demo](https://oppsync.vercel.app/) • [GitHub Repo](https://github.com/Poonam146/OppSync) |
 | **Rank2College** | JEE Main College Predictor based on user rank, category, and state. | Next.js, CSV Parsing, Tailwind CSS | [GitHub Repo](https://github.com/Poonam146/Rank2College) |
+| **Fake News Detector** | An NLP-based machine learning model that classifies news articles as real or fake using TF-IDF vectorization and Support Vector Machine (SVM). | Python, Scikit-learn, Pandas, NumPy, TF-IDF, SVM | [GitHub Repo](https://github.com/Poonam146/FAKE-NEWS-DETECTOR) |
+| **DataWipe** | A secure online tool to permanently remove sensitive metadata from images and documents before sharing, ensuring privacy and clean file exports. | Next.js, TypeScript, Tailwind CSS | [Live Demo](https://data-wipe.vercel.app/) • [GitHub Repo](https://github.com/Poonam146/DataWipe) |
 | **Student Report Card Management System** | A comprehensive system for managing and generating student report cards. | C++ | [GitHub Repo](https://github.com/Poonam146/Student-Report-Card-Management-System) |
 
 ---
