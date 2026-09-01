@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
 
-  <a href="https://x.com/thepoonam0914" target="_blank">
+  <a href="https://x.com/poonam_twtt" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
 
